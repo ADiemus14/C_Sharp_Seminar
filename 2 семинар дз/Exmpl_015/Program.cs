@@ -12,4 +12,4 @@ if (Date = 6 || Date = 7 ){
     Console.WriteLine ("Данный день недели является выходным");
 }
 
-else Console.WriteLine ("Это будний день недели");
+else Console.WriteLine ("Это будний день недели....");
