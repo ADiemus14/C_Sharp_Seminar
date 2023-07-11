@@ -14,3 +14,4 @@ int[] GetArrayFromString(string stringArray)
     } 
     return result; 
 }
+Console.Write (string.Join ("," , numbers)); 
